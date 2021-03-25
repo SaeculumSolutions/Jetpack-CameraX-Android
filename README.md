@@ -86,13 +86,10 @@ It would be great for us if the reporter can share the below things to understan
 ### Library used
 
 * [Glide](https://github.com/bumptech/glide)
-* [CameraX] implementation "androidx.camera:camera-core:1.0.0-rc01"
-* [CameraX Camera2 extensions]
-* implementation "androidx.camera:camera-camera2:1.0.0-rc01"
-* [CameraX Lifecycle library]
-* implementation "androidx.camera:camera-lifecycle:1.0.0-rc01"
-* [CameraX View class]
-* implementation 'androidx.camera:camera-view:1.0.0-alpha20'
+* CameraX:- 			implementation "androidx.camera:camera-core:1.0.0-rc01"
+* CameraX Camera2 extensions:-	implementation "androidx.camera:camera-camera2:1.0.0-rc01"
+* CameraX Lifecycle library:- 	implementation "androidx.camera:camera-lifecycle:1.0.0-rc01"
+* CameraX View class:-        	implementation 'androidx.camera:camera-view:1.0.0-alpha20'
 
 ### ProGaurd rules
 
