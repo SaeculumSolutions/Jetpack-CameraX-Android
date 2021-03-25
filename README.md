@@ -86,9 +86,7 @@ It would be great for us if the reporter can share the below things to understan
 ### Library used
 
 * [Glide](https://github.com/bumptech/glide)
-* [CameraView](https://github.com/natario1/CameraView)
-* [CameraX]
-* implementation "androidx.camera:camera-core:1.0.0-rc01"
+* [CameraX] implementation "androidx.camera:camera-core:1.0.0-rc01"
 * [CameraX Camera2 extensions]
 * implementation "androidx.camera:camera-camera2:1.0.0-rc01"
 * [CameraX Lifecycle library]
