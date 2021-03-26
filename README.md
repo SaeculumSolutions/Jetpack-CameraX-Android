@@ -9,7 +9,7 @@ JetPack-CameraX helps you add reliable camera to your app quickly. It use camera
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/Screenshot_1.png" width="260">&emsp;<img src="/results/Screenshot_2.png" width="260">&emsp;<img src="/results/Screenshot_3.png" width="260">&emsp;<img src="/results/Screenshot_4.png" width="260">&emsp;<img src="/results/Screenshot_5.png" width="260">
+<img src="/results/Screenshot_1.jpg" width="260">&emsp;<img src="/results/Screenshot_2.jpg" width="260">&emsp;<img src="/results/Screenshot_3.jpg" width="260">&emsp;<img src="/results/Screenshot_4.jpg" width="260">&emsp;<img src="/results/Screenshot_5.jpg" width="260">
 
 # Usage
 
