@@ -4,9 +4,12 @@
 
 Jetpack-CameraX is simplest way to click and pick image.
 
-### Jetpack-CameraX camera image picker
+## :scroll: Description
+JetPack-CameraX helps you add reliable camera to your app quickly. It use cameraX library inside.Simple implementation.
 
-Simple implementation 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/results/Screenshot_1.png" width="260">&emsp;<img src="/results/Screenshot_2.png" width="260">&emsp;<img src="/results/Screenshot_3.png" width="260">&emsp;<img src="/results/Screenshot_4.png" width="260">&emsp;<img src="/results/Screenshot_5.png" width="260">
 
 # Usage
 
