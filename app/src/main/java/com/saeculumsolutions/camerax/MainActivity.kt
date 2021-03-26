@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
         val btnCameraX = findViewById<Button>(R.id.btnCameraX)
         btnCameraX.setOnClickListener {
-
+            //init intent
             val intent = JetPackCameraX(this).build()
             startActivityForResult(intent, LAUNCH_CAMERA_X_ACTIVITY)
         }
