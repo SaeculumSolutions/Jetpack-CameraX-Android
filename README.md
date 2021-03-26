@@ -5,7 +5,7 @@
 Jetpack-CameraX is simplest way to click and pick image.
 
 ## :scroll: Description
-JetPack-CameraX helps you add reliable camera to your app quickly. It use cameraX library inside.Simple implementation.
+JetPack-CameraX helps you add reliable camera to your app quickly. It use cameraX library inside.Simple implementation.Check out [apk](/appdebug.apk).
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
